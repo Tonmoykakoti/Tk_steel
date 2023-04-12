@@ -20,8 +20,12 @@ const About = () => {
             day to day constructional activities
           </p>
           <p className="aboutInfo">
-            Plumbing,Electrical,Fabrications,Paints,Safety Equipments,Hand
-            tools,Door locks & handles
+            Plumbing,Electrical,Fabrications,
+            <br />
+            Paints,
+            <br />
+            Safety Equipments,Hand tools,Door <br />
+            locks & handles
             <br />
             <span>you name it, you get it!</span>
           </p>
