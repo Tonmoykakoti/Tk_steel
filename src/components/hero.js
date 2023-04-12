@@ -7,7 +7,7 @@ const Hero = () => {
         <p>Your</p>
         <h1 className="heading">one stop</h1>
         <p>shop for your house</p>
-        <a href="#tours" className="btn hero-btn">
+        <a href="#products" className="btn hero-btn">
           explore products
         </a>
       </div>

@@ -336,9 +336,9 @@ Services
   font-size: 2rem;
   margin-bottom: 1.5rem;
 }
-.service-icon .location {
+/* .service-icon .location {
   padding: 0 5px;
-}
+} */
 
 .service-text {
   max-width: 20rem;
