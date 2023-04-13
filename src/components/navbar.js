@@ -1,12 +1,10 @@
 import React from "react";
 import logoNew from "../TKSTEEL.png";
 import { pageLinks } from "../data";
-import { useState, useEffect, useRef } from "react";
+import { useState } from "react";
 
 const Navbar = () => {
   const [showLinks, setShowLinks] = useState(false);
-  const linksRef = useRef(null);
-  const linksContainerRef = useRef(null);
 
   return (
     <nav className="navbar">
@@ -23,11 +21,10 @@ const Navbar = () => {
           </button>
         </div>
         {/* <!-- left this comment on purpose --> */}
-        <div className="links-container " ref={linksContainerRef}>
+        <div className="links-container ">
           <ul
             className={`${showLinks ? "nav-links show-links" : "nav-links"}`}
             id="nav-links"
-            ref={linksRef}
           >
             {pageLinks.map((link) => {
               const { id, href, text } = link;
