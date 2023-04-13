@@ -609,8 +609,8 @@ Navbar
 }
 
 .nav-link:hover {
-  color: var(--clr-primary-1);
-  background: var(--clr-primary-8);
+  color: #000;
+  background: yellow;
   padding-left: 2.25rem;
 }
 
