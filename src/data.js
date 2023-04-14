@@ -35,13 +35,13 @@ export const services = [
     text: "9707441592/9859320449",
   },
   {
-    id: 1,
+    id: 2,
     icon: "fas fa-envelope fa-fw",
     title: "E-mail",
     text: "kakotitonmoy@gmail.com",
   },
   {
-    id: 1,
+    id: 3,
     icon: "fa-sharp fa-solid fa-location-dot",
     title: "Location",
     text: "JAYANAGAR,NEAR INDIAN OIL PUMP",
@@ -53,14 +53,14 @@ export const tours = [
     image: tour1,
     date: "March 25th,2023",
     title: "Dynaroof",
-    info: " Dynaroof is the revolutionary pioneer in the metal roofing segment in the Northeast, and the flagship company of the Assam-based SM Group.",
+    info: " Dynaroof is the revolutionary pioneer in the metal roofing segment",
   },
   {
     id: 2,
     image: tour2,
     date: "January 15th, 2023",
     title: "Chainsaw",
-    info: " A chainsaw (or chain saw) is a portable gasoline-, electric-, or battery-powered saw that cuts with a set of teeth attached to a rotating chain",
+    info: " A chainsaw (or chain saw) is a portable gasoline-, electric-",
   },
   {
     id: 3,
