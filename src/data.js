@@ -64,7 +64,7 @@ export const tours = [
     id: 1,
     image: dynaroof,
     date: "March 25th,2023",
-    title: "Dynaroof",
+    title: "color coated roof",
     info: " Dynaroof is the revolutionary pioneer in the metal roofing segment",
   },
   {
