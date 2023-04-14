@@ -20,7 +20,7 @@ const Tours = () => {
                 <div className="tour-title">
                   <h4>{title}</h4>
                 </div>
-                <p>{info}</p>
+                <p className="info">{info}</p>
                 <div className="tour-footer">
                   <p></p>
                   <p>{duration}</p>
