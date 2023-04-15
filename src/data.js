@@ -21,23 +21,23 @@ export const pageLinks = [
   { id: 3, href: "#contact", text: "contact" },
 ];
 
-export const socialLinks = [
-  {
-    id: 1,
-    href: "https://www.twitter.com",
-    icon: "fab fa-twitter",
-  },
-  {
-    id: 2,
-    href: "https://www.twitter.com",
-    icon: "fab fa-facebook",
-  },
-  {
-    id: 3,
-    href: "https://www.twitter.com",
-    icon: "fab fa-squarespace",
-  },
-];
+// export const socialLinks = [
+//   {
+//     id: 1,
+//     href: "https://www.twitter.com",
+//     icon: "fab fa-twitter",
+//   },
+//   {
+//     id: 2,
+//     href: "https://www.twitter.com",
+//     icon: "fab fa-facebook",
+//   },
+//   {
+//     id: 3,
+//     href: "https://www.twitter.com",
+//     icon: "fab fa-squarespace",
+//   },
+// ];
 
 export const services = [
   {
@@ -65,21 +65,21 @@ export const tours = [
     image: dynaroof,
     date: "March 25th,2023",
     title: "color coated roof",
-    info: " color coated is the revolutionary pioneer in the metal roofing segment",
+    info: "come and order for color coated roof",
   },
   {
     id: 2,
     image: chainsaw,
     date: "January 15th, 2023",
     title: "Chainsaw",
-    info: " A chainsaw (or chain saw) is a portable gasoline-, electric-",
+    info: "AKARI/FOREVER brands available",
   },
   {
     id: 3,
     image: bibcock,
     date: "April 1st, 2023",
     title: "Steel Bibcock",
-    info: " Freshly Stainless Steel Bib Cock Tap for kitchen and bathroom Bib Tap Faucet at best prices",
+    info: "Triple/Double/Single headed bibcocks available",
   },
   {
     id: 4,
