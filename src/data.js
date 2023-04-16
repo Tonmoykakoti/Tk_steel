@@ -13,6 +13,18 @@ import grinding from "./images/grinding.jpg";
 import mesh from "./images/mesh.jpg";
 import polycarbonate from "./images/polycarbonate.jpg";
 import zincroof from "./images/Zincroof.jpg";
+import disc from "./images/disc.jpg";
+import fence from "./images/fence.jpg";
+import green from "./images/green.jpg";
+import hand from "./images/hand.jpg";
+import pipes from "./images/pipes.jpg";
+import putty from "./images/putty.jpg";
+import septi from "./images/septi.jpg";
+import stove from "./images/stove.jpg";
+import tank from "./images/tank.jpg";
+import trap from "./images/trap.jpg";
+import water from "./images/water.jpg";
+import wd40 from "./images/wd40.jpg";
 
 export const pageLinks = [
   { id: 1, href: "#home", text: "home" },
@@ -164,5 +176,89 @@ export const tours = [
     date: "April 1st, 2023",
     title: "zinc roof",
     info: "Zinc/GI roof of all sizes available",
+  },
+  {
+    id: 16,
+    image: disc,
+    date: "d",
+    title: "disc",
+    info: "cutting blades available",
+  },
+  {
+    id: 17,
+    image: fence,
+    date: "d",
+    title: "fence",
+    info: "GI color coated fence available",
+  },
+  {
+    id: 18,
+    image: green,
+    date: "d",
+    title: "Green Net",
+    info: "specific sizes net available",
+  },
+  {
+    id: 19,
+    image: hand,
+    date: "d",
+    title: "hand tools",
+    info: "pliers/screwdrivers/LN key",
+  },
+  {
+    id: 20,
+    image: pipes,
+    date: "d",
+    title: "PVC/CPVC/UPVC",
+    info: "pipes of all sizes,grades available",
+  },
+  {
+    id: 21,
+    image: putty,
+    date: "d",
+    title: "putty",
+    info: "Nerolac/Asian 20/40 kg available",
+  },
+  {
+    id: 22,
+    image: septi,
+    date: "d",
+    title: "septi tank",
+    info: "Remote septi tank available",
+  },
+  {
+    id: 23,
+    image: stove,
+    date: "d",
+    title: "stove",
+    info: "Single/Dual/Triple stoves available",
+  },
+  {
+    id: 24,
+    image: tank,
+    date: "d",
+    title: "PVC water tanks",
+    info: "Sintex/Polycab/Watrex",
+  },
+  {
+    id: 25,
+    image: trap,
+    date: "d",
+    title: "Mouse Trap",
+    info: "Mouse traps",
+  },
+  {
+    id: 26,
+    image: water,
+    date: "d",
+    title: "water can",
+    info: "Water can 5 lts ",
+  },
+  {
+    id: 27,
+    image: wd40,
+    date: "d",
+    title: "wd40",
+    info: "wd40 sm/m/xl available",
   },
 ];
